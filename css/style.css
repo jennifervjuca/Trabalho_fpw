@@ -376,7 +376,7 @@ section.sobremim {
 
 /* Seção Portfólio com efeito parallax */
 .portfolio {
-  background-image: url("../images/background-portfolio.png");
+  background-image: url("images/background-portfolio.png");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -698,4 +698,5 @@ footer .bottom-footer p {
 }
 
 /* Fim do estilo rodapé */
+
 
